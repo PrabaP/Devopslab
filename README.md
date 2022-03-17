@@ -1,4 +1,3 @@
 # Devopslab
-Hello World
-This is my first page
+This is my first commit
 
