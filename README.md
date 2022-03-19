@@ -6,5 +6,6 @@ I am doing branch merging
 This line is added via featureA
 This line is added via remote repository
 This line is added via local repo
+This is conflict check via local repo
 
 
