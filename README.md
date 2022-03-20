@@ -9,6 +9,9 @@ This line is added via local repo
 This is conflict check via local repo
 
 This line is to check for conflict
+<<<<<<< HEAD
 adding v1
 adding for v2
 
+=======
+>>>>>>> 327da43b9bc61029fb3ed702e16e68ce9c2723b5
